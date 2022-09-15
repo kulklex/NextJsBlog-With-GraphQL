@@ -3,6 +3,7 @@ import Categories from '../components/Categories';
 import PostCard from '../components/PostCard'
 import PostWidget from './../components/PostWidget';
 
+
 const posts = [
   {title: 'React Testing', excerpt: 'Learn React Testing'},
   {title: 'Next Testing', excerpt: 'Learn Next Testing'}
